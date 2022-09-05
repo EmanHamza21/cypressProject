@@ -1,0 +1,25 @@
+{
+  "name": "cypressproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmanHamza21/cypressProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmanHamza21/cypressProject/issues"
+  },
+  "homepage": "https://github.com/EmanHamza21/cypressProject#readme",
+  "dependencies": {
+    "cypress": "^3.8.3",
+    "cypress-cucumber-preprocessor": "^4.3.1",
+    "typings": "^2.1.1"
+  }
+}
